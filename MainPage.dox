@@ -1,0 +1,11 @@
+/**
+@mainpage Dokumentacja zadania wielomiany
+
+### Treść zadania
+
+Uwaga: aktualna treść zadania znajduje się w [Moodle'u](https://moodle.mimuw.edu.pl).
+
+### Opis projektu
+
+Implementacja operacji na wielomianach rzadkich wielu zmiennych wraz z kalkulatorem działającym na wielomianach i stosującym odwrotną notację polską, skryptem bashowym automatyzującym wykonywanie zapisanych w plikach sekwencji operacji na wielomianach i testami jednostkowymi.
+*/
